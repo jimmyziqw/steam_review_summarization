@@ -18,7 +18,7 @@ data acquire:
 
 alg need: 
     1.LDA
-    2.deep learning
+    2.transformer
     3.text summarzier 
 
 result:
@@ -30,13 +30,13 @@ making html
 
 problem associated:
     1. address the spamming, sarcastm
-    2. 
+    2. add interative panel
 
 
 milestones:
     1. LDA
-    2. deep learning
+    2. transformer
     3. text sum
     4. visualization
-    5. web if possible
-    6. meta analysis of indie game via spark and aws s3 ec2
+    5. web 
+    6. meta analysis of indie game via spark and aws
